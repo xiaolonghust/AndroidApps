@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">红包助手</string>
+    <string name="action_settings">设置</string>
+    <string name="desc">开启红包提醒功能，帮你大大提高抢到红包的几率。当系统检测到微信有红包消息时，立即发出声音提醒，让你快人一步，将红包手到擒来。如有问题，请联系我们:xiaolonghust@qq.com</string>
+</resources>
